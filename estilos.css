@@ -1,0 +1,251 @@
+
+html{
+    background-color: rgb(99, 6, 6);
+}
+
+.mono{
+    background-color: rgba(124, 24, 7, 0.637); 
+    width: 100%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(124, 24, 7, 0.637);
+}
+.pez{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border-style: dashed;
+    margin: 0;
+    
+}
+
+p{
+    margin: 0%;
+    width: fit-content;
+}
+.perro{
+    display: inline-block;
+    margin-left: 57px;
+    font-size: 20px;
+    border-style: dashed;
+}
+.gato{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 20px;
+    border-style: dashed;
+    color: black;
+
+}
+.carne{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 20px;
+    border-style: dashed;
+    color: black;
+}
+
+.contenedor-gen-botones{
+    width: fit-content;
+    height: 143.43px;
+    float: right;
+}
+
+.contenedor-botones{
+    width: fit-content;
+    height: fit-content;
+    padding-top: 10%;
+    
+}
+
+.botones1{
+    text-align: center;
+    width:70px;
+    height: fit-content;
+    padding: 3;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 0;
+    margin-right: 5px;
+}
+
+.botones{
+    text-align: center;
+    width:70px;
+    height: fit-content;
+    padding: 3;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20%;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.texto-botones{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.perro:hover{
+    cursor: pointer;
+    color: white;
+}
+.gato:hover{
+    cursor: pointer;
+    color: white;
+}
+.carne:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.paisaje{
+    margin-top: 40px;
+    width: 95%;
+    height: 300px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.tortuga{
+    width: fit-content;
+    text-align: center;
+    font-size: 30px;
+    height: fit-content;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(99, 6, 6);
+    border-style: solid;
+}
+
+.div-presentacion{
+    width: 80%;
+}
+
+audio{
+    margin-top: 30px;
+}
+
+.pie-pagina{
+    margin-top: 0px;
+    padding-top: 0;
+    width: 100%;
+    background-color: red;
+}
+
+.texto-pie-pagina{
+    color: white;
+}
+
+.div1{
+display: inline-block;
+margin-top: 100px;
+}
+
+.div2{
+display: inline-block;
+margin-top: 100px;
+margin-bottom: 100px
+}
+
+.a{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.b{ 
+width: 200px;
+height: 200px; 
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.c{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.d{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.e{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.f{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.a:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.b:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.c:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.d:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.e:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.f:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.pintar{
+background-color:darkgoldenrod;
+border-style: dashed;
+text-align: center;
+}
+.pintar2{
+    background-color:darkgoldenrod;
+    border-style: dashed;
+    text-align: center;
+    }
+
+.cuerpo1{
+    background-color: rgb(99, 6, 6);
+    width: 100%;
+    height: 100%;
+    }
